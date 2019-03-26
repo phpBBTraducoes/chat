@@ -1,11 +1,11 @@
 <?php
 /** 
-* info_acp_chat.php [Brazilian Portuguese [pt_br]] translation by eunaumtenhoid (c) 2017 [ver 1.1.3] (https://github.com/phpBBTraducoes)
+* info_acp_chat.php [Brazilian Portuguese [pt_br]] translation by eunaumtenhoid [2017][ver 1.2.0] (https://github.com/phpBBTraducoes)
 * @package cBB Chat
-* @version v1.1.3 10/03/2017
-* 
-* @copyright (c) 2017 CaniDev
-* @license http://opensource.org/licenses/gpl-license.php GNU Public License
+* @version v1.2.0 02/03/2019
+*
+* @copyright (c) 2019 CaniDev
+* @license https://opensource.org/licenses/gpl-license.php GNU Public License
 */
 
 // DO NOT CHANGE
@@ -27,8 +27,18 @@ $lang = array_merge($lang, array(
 	'ACP_CHAT_ROOMS'		=> 'Gerenciar salas',
 	'ACP_CHAT_TEXTS'		=> 'Textos e regras estáticas',
 
-	'LOG_CHAT_CONFIG'			=> '<strong>cBB Chat:</strong> Configuração principal alterada',
+	'LOG_CHAT_CONFIG'			    => '<strong>cBB Chat:</strong> Configuração principal alterada',
 	'LOG_CHAT_EXCLUSION_ADDED'		=> '<strong>cBB Chat:</strong> Exclusões adicionadas<br />» %s',
  	'LOG_CHAT_EXCLUSION_REMOVED'	=> '<strong>cBB Chat:</strong> Exclusões removidas<br />» %s',
-	'LOG_CHAT_ROOM_REMOVED'		=> '<strong>cBB Chat:</strong> Deletada sala <em>%s</em> e suas mensagens',
+	'LOG_CHAT_MESSAGE_MOVED'		=> '<strong>cBB Chat:</strong> Mensagem movida de <em>%1$s</em> para <em>%2$s</em><br />» %3$s',
+	'LOG_CHAT_MESSAGES_MOVED'		=> array(
+		1 => '<strong>cBB Chat:</strong> 1 mensagem movida de <em>%1$s</em> para <em>%2$s</em>',
+		2 => '<strong>cBB Chat:</strong> %3$d mensagens movidas de <em>%1$s</em> para <em>%2$s</em>',
+	),
+	'LOG_CHAT_MESSAGE_REMOVED'		=> '<strong>cBB Chat:</strong> Mensagem excluida <br />» <em>%s</em>',
+	'LOG_CHAT_MESSAGES_REMOVED'		=> array(
+		1 => '<strong>cBB Chat:</strong> 1 mensagem excluída de <em>%1$s</em>',
+		2 => '<strong>cBB Chat:</strong> %2$d mensagens deletadas de <em>%1$s</em>',
+	),
+	'LOG_CHAT_ROOM_REMOVED'		    => '<strong>cBB Chat:</strong> Excluida a sala <em>%s</em> e suas mensagens',
 ));

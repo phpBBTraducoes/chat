@@ -1,11 +1,11 @@
 <?php
 /** 
-* permissions_chat.php [Brazilian Portuguese [pt_br]] translation by eunaumtenhoid (c) 2017 [ver 1.1.3] (https://github.com/phpBBTraducoes)
+* permissions_chat.php [Brazilian Portuguese [pt_br]] translation by eunaumtenhoid [2017][ver 1.2.0] (https://github.com/phpBBTraducoes)
 * @package cBB Chat
-* @version v1.1.3 10/03/2017
+* @version v1.2.0 02/03/2019
 * 
-* @copyright (c) 2017 CaniDev
-* @license http://opensource.org/licenses/gpl-license.php GNU Public License
+* @copyright (c) 2019 CaniDev
+* @license https://opensource.org/licenses/gpl-license.php GNU Public License
 */
 
 // DO NOT CHANGE
