@@ -1,9 +1,9 @@
 <?php
 /** 
-* info_acp_chat.php [Brazilian Portuguese [pt_br]] translation by eunaumtenhoid [2017][ver 1.2.0] (https://github.com/phpBBTraducoes)
+* info_acp_chat.php [Brazilian Portuguese [pt_br]] 
 * @package cBB Chat
 * @version v1.2.0 02/03/2019
-*
+* Brazilian Portuguese  translation by eunaumtenhoid [2017][ver 1.2.0] (https://github.com/phpBBTraducoes)
 * @copyright (c) 2019 CaniDev
 * @license https://opensource.org/licenses/gpl-license.php GNU Public License
 */

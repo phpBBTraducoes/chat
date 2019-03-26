@@ -1,9 +1,9 @@
 <?php
 /** 
-* acp.php [Brazilian Portuguese [pt_br]] translation by eunaumtenhoid [2017][ver 1.2.0] (https://github.com/phpBBTraducoes)
+* acp.php [Brazilian Portuguese [pt_br]] 
 * @package cBB Chat
 * @version v1.2.0 02/03/2019
-*
+* Brazilian Portuguese  translation by eunaumtenhoid [2017][ver 1.2.0] (https://github.com/phpBBTraducoes)
 * @copyright (c) 2019 CaniDev
 * @license https://opensource.org/licenses/gpl-license.php GNU Public License
 */
@@ -30,7 +30,7 @@ $lang = array_merge($lang, array(
 	'CHAT_ALLOW_BBCODE'			=> 'Permitir BBcode',
 	'CHAT_ALLOW_BBCODE_EXPLAIN'	=> 'Define se os usuários podem usar tags BBcode no chat.',
 	'CHAT_ALLOW_PM'				=> 'Permitir mensagens privadas',
-	'CHAT_ALLOW_PM_EXPLAIN'		=> 'Ativar / Desativar as mensagens privadas entre usuários.',
+	'CHAT_ALLOW_PM_EXPLAIN'		=> 'Ativar/Desativar as mensagens privadas entre usuários.',
 	'CHAT_ANONYMOUS_ALLOWED'	=> 'Permitir convidados sem nome',
 	'CHAT_ANONYMOUS_ALLOWED_EXPLAIN'	=> 'Se ativado, os visitantes irão acessar o chat com um nome aleatório em vez de ter que decidir seu nome.<br />
         <em>Esta opção só é válida se o grupo de convidados tiver permissões para visualizar o chat. </em>',
